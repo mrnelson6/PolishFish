@@ -2,9 +2,9 @@
 
   [![Stockfish][stockfish128-logo]][website-link]
 
-  <h3>Stockfish</h3>
+  <h3>Polishfish</h3>
 
-  A free and strong UCI chess engine.
+  A fork of Stockfish that just plays the Polish opening as the white pieces
   <br>
   <strong>[Explore Stockfish docs »][wiki-link]</strong>
   <br>
